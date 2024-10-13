@@ -52,17 +52,10 @@ Our model achieves:
 
 Example outputs can be viewed below:
 
-| Input (Blurred) | Output (Deblurred) | Ground Truth (Sharp) |
-|:---------------:|:------------------:|:--------------------:|
-| ![Blurred Image](path_to_blurred_image) | ![Deblurred Image](path_to_deblurred_image) | ![Sharp Image](path_to_sharp_image) |
+| Input (Blurred) | Output (Deblurred) |
+|:---------------:|:------------------:|
+| ![Blurred Image](![Input](https://github.com/user-attachments/assets/34d87897-0f1f-4eb2-bb60-54821e211461)
+) | ![Deblurred Image](![Output](https://github.com/user-attachments/assets/4dc8f3a4-ed5c-4534-841c-b248ee6f6330)
+) | 
 
 ---
-
-## Installation Guide
-
-To run this project, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/image-inpainter-deblurgan.git
-   cd image-inpainter-deblurgan
