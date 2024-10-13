@@ -52,10 +52,8 @@ Our model achieves:
 
 Example outputs can be viewed below:
 
-| Input (Blurred) | Output (Deblurred) |
-|:---------------:|:------------------:|
-| (![Input](https://github.com/user-attachments/assets/34d87897-0f1f-4eb2-bb60-54821e211461)
-| ((![Output](https://github.com/user-attachments/assets/4dc8f3a4-ed5c-4534-841c-b248ee6f6330)
-| 
+| Input (Blurred)                                      | Output (Deblurred)                                    |
+|:----------------------------------------------------:|:-----------------------------------------------------:|
+| ![Blurred Image](https://github.com/user-attachments/assets/34d87897-0f1f-4eb2-bb60-54821e211461) | ![Deblurred Image](https://github.com/user-attachments/assets/4dc8f3a4-ed5c-4534-841c-b248ee6f6330) |
 
 ---
